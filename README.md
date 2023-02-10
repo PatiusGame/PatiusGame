@@ -26,7 +26,7 @@ Hola!! soy Pablo // PatiusGame , soy estudiante de programacion (sigo en el cole
 
 <div align="center"> 
 <a href="https://discord.gg/hRXNykSkTP" tittle="unete a mi grupo de amigos" > 
-  <img class="circle-discord" src="https://cdn.discordapp.com/attachments/1048437517227130931/1073620256083419146/image.png" alt=""> </a>
+  <img class="circle-discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt=""> </a>
 </div>
 
 
