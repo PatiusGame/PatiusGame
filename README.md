@@ -26,7 +26,17 @@ Hola!! soy Pablo // PatiusGame , soy estudiante de programacion (sigo en el cole
 
 <div align="center"> 
 <a href="https://discord.gg/hRXNykSkTP" tittle="unete a mi grupo de amigos" > 
-  <img class="circle-discord" src="https://shields.io/badge/Grupo%20de%20Discord-111111.svg?&style=for-the-badge&logo=discord" alt=""> </a>
+  <img class="discord" src="https://shields.io/badge/Grupo%20de%20Discord-111111.svg?&style=for-the-badge&logo=discord" alt=""> </a>
+
+<a href="https://www.twitch.tv/patiusgame" tittle="Mi canal de Twitch" > 
+  <img class="twitch" src="https://shields.io/badge/twitch-111111.svg?&style=for-the-badge&logo=twitch" alt=""> </a>
+  
+  <a href="https://www.youtube.com/channel/UC75MGMlCQYAJRU0n86O8F9A" tittle="Mi canal de YouTube" > 
+  <img class="YouTube" src="https://shields.io/badge/Youtube-111111.svg?&style=for-the-badge&logo=Youtube" alt=""> </a>
+
+<a href="https://www.facebook.com/patiusgame" tittle="Mi cuenta de facebook" > 
+  <img class="facebook" src="https://shields.io/badge/FaceBook-111111.svg?&style=for-the-badge&logo=facebook" alt=""> </a>
+
 </div>
 
 
